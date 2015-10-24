@@ -471,8 +471,18 @@ a:after {
 .parnter-box .port-space {
   position: relative;
   padding:50px;
+  display:block;
+}
+.parnter-box .port-space a {
+  display:block;
+  width:100%; height:auto;
+  overflow:hidden;
 }
 .parnter-box img {
   width:100%; height:auto;
   display:block;
+}
+
+h1 {
+  color: #fff !important;
 }
