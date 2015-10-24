@@ -483,6 +483,6 @@ a:after {
   display:block;
 }
 
-#f h1 {
+#portfolio h1, #f h1 {
   color: #fff !important;
 }
