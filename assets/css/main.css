@@ -500,3 +500,12 @@ a:after {
     margin-top:70px;
   }
 }
+@media all and (max-width: 600px) {
+  #headerwrap h1 {
+    font-size:70px;
+    margin-top:50px;
+  }
+  #headerwrap h2 {
+    font-size:40px;
+  }
+}
