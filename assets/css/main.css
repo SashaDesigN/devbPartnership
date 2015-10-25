@@ -486,3 +486,6 @@ a:after {
 #portfoliowrap h1, #f h1 {
   color: #fff !important;
 }
+.container p {
+  color:#000 !important;
+}
