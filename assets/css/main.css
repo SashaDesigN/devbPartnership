@@ -489,3 +489,8 @@ a:after {
 .container p {
   color:#000 !important;
 }
+@media all and (max-width: 900px) {
+  #headerwrap h1 {
+    font-size:120px;
+  }  
+}
